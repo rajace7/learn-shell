@@ -22,3 +22,9 @@ echo date=$(date +%F)
 
 arth=$((2*3/2))
 echo arth=$arth
+
+echo $0 - script name
+echo $1 - first agrument
+echo $2 - second argument
+echo $* -all arguments
+echo $# - no of arguments
