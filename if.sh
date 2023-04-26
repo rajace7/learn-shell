@@ -8,4 +8,6 @@ fi
 
 if [ ${fruit} == apple ]; then
   echo fruit is apple
+  else
+    echo fruit is not a apple
 fi
