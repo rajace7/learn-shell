@@ -14,3 +14,9 @@ function_name1()
 }
 
 function_name1 100 200 300
+
+
+echo 1st argument = $1
+  echo 2nd argument = $2
+  echo all arguments = $*
+  echo no of arguments = $#
