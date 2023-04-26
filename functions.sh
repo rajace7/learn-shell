@@ -9,6 +9,7 @@ function_name1()
 {
   echo function 1st argument = $1
   echo  function2nd argument = $2
+  return 1
   echo function all arguments = $*
   echo  function no of arguments = $#
 }
