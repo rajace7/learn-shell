@@ -13,4 +13,4 @@ function_name1()
   echo no of arguments = $#
 }
 
-function_name1
+function_name1 100 200 300
