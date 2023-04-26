@@ -17,3 +17,9 @@ if [ $qty -ge 100 ]; then
 else
   echo apple is 2 rupee
 fi
+
+if [ ${fruit} == apple && ${qty} -ge 100 ]; then
+  echo fruit name is apple and price is 1 rupee
+else
+  echo eithe ${fruit} entered is not an apple
+fi
