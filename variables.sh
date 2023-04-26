@@ -17,3 +17,5 @@ echo green text
 
 echo -e "\e[32m a value is ${a} \e[0m"
 echo -e '\e[32m a value is ${a} \e[0m'
+
+echo date=$(date)
