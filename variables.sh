@@ -14,3 +14,5 @@ echo -e "\e[32m ....hello world....\e"
 echo green text
 echo -e "\e[32m ....hello world...."
 echo green text
+
+echo -e "\e[32m a value is ${a} \e[0m"
