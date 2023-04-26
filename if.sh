@@ -11,3 +11,9 @@ if [ ${fruit} == apple ]; then
   else
     echo -e "\e[31m fruit is not a apple \e[0m"
 fi
+
+if [ $qty -eq 100 ]; then
+  echo apple pricce is 1 rupee
+else
+  echo apple is 2 rupee
+fi
