@@ -19,3 +19,6 @@ echo -e "\e[32m a value is ${a} \e[0m"
 echo -e '\e[32m a value is ${a} \e[0m'
 
 echo date=$(date +%F)
+
+arth=$((2*3/2))
+echo arth=$arth
