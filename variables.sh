@@ -9,3 +9,6 @@ echo a string value  is ${string}
 
 echo hello world
 echo -e "\e[32m ....hello world....\e[0m"
+echo white text
+echo -e "\e[32m ....hello world....\e"
+echo green text
