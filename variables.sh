@@ -12,3 +12,5 @@ echo -e "\e[32m ....hello world....\e[0m"
 echo white text
 echo -e "\e[32m ....hello world....\e"
 echo green text
+echo -e "\e[32m ....hello world...."
+echo green text
