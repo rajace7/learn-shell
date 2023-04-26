@@ -23,4 +23,5 @@ echo 1st argument = $1
   echo no of arguments = $#
 
   echo Exit status of function - $?
+  echo function_name1 -?
 
