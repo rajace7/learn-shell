@@ -7,7 +7,7 @@ if [ -z ${fruit} ]; then
 fi
 
 if [ ${fruit} == apple ]; then
-  echo fruit is apple
+  echo -e "\e[32m fruit is apple \e[0m"
   else
-    echo fruit is not a apple
+    echo -e "\e[31m fruit is not a apple \e[0m"
 fi
